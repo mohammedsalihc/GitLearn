@@ -10,3 +10,8 @@ console.log('erheorkj')
 console.log('erheorkj')
 console.log('erheorkj')
 console.log('erheorkj')
+
+
+function git (){
+    console.log('hello world')
+}
