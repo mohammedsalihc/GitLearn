@@ -15,3 +15,10 @@ console.log('erheorkj')
 function git (){
     console.log('hello world')
 }
+
+
+function helo(){
+    console.log(
+        git()
+    )
+}
